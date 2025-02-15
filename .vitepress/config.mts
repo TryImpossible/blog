@@ -1,0 +1,50 @@
+import { defineConfig } from 'vitepress'
+
+// https://vitepress.dev/reference/site-config
+export default defineConfig({
+  title: '博客',
+  description: '我的博客',
+  base: '/blog/',
+  srcDir: './src',
+  srcExclude: ['./README.md'],
+  themeConfig: {
+    // https://vitepress.dev/reference/default-theme-config
+    logo: '/images/logo.svg',
+
+    outline: {
+      label: '页面导航'
+    },
+
+    nav: [
+      { text: '首页', link: '/' }
+    ],
+
+    sidebar: [
+      {
+        text: 'Flutter',
+        // collapsed: true,
+        items: [
+          { text: 'Flutter Shorebird热更新教程', link: '/flutter/Flutter Shorebird热更新教程/index' },
+          { text: '实现Dart版本对象存储(COS)插件', link: '/flutter/实现Dart版本对象存储(COS)插件/index'},
+          { text: 'Flutter Web在《一起漫部》的性能优化探索与实践', link: '/flutter/Flutter Web在《一起漫部》的性能优化探索与实践/index' }
+        ]
+      },
+      // {
+      //   text: 'Examples',
+      //   items: [
+      //     { text: 'Markdown Examples', link: '/example/markdown-examples' },
+      //     { text: 'Runtime API Examples', link: '/example/api-examples' }
+      //   ]
+      // }
+    ],
+
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/TryImpossible' }
+    ],
+
+    docFooter: {
+      prev: '上一页',
+      next: '下一页'
+    }
+  }
+})
