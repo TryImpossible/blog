@@ -1,5 +1,7 @@
 ---
-prev: false
+prev: 
+  text: 'Flutter的首次尝试-小独App'
+  link: '/flutter/Flutter的首次尝试-小独App/index'
 next: 
   text: '实现Dart版本对象存储(COS)插件'
   link: '/flutter/实现Dart版本对象存储(COS)插件/index'
