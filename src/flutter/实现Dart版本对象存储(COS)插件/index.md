@@ -1,3 +1,11 @@
+---
+prev:
+  text: 'Flutter Web在《一起漫部》的性能优化探索与实践'
+  link: '/flutter/Flutter Web在《一起漫部》的性能优化探索与实践/index'
+next: 
+  text: 'Flutter Shorebird热更新教程'
+  link: '/flutter/Flutter Shorebird热更新教程/index'
+---
 # 实现Dart版本对象存储(COS)插件
 
 ## 前言

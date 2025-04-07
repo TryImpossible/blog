@@ -1,3 +1,9 @@
+---
+prev: false
+next: 
+  text: '实现Dart版本对象存储(COS)插件'
+  link: '/flutter/实现Dart版本对象存储(COS)插件/index'
+---
 # Flutter Web 在《一起漫部》的性能优化探索与实践
 
 [一起漫部](https://apph5.yiqimanbu.cn/) 是基于区块链技术创造的新型数字生活。

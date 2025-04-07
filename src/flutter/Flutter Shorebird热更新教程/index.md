@@ -1,3 +1,9 @@
+---
+prev:
+  text: '实现Dart版本对象存储(COS)插件'
+  link: '/flutter/实现Dart版本对象存储(COS)插件/index'
+next: false  
+---
 # Shorebird 热更新教程
 
 ## 官网
