@@ -1,7 +1,7 @@
 ---
 prev: 
-  text: '关于ReactNative如何配置ESLint、Prettier、Pre-commit Hook'
-  link: '/react-native/关于ReactNative如何配置ESLint、Prettier、Pre-commit Hook/index'
+  text: 'ReactNative脚手架工程 - 认识RN'
+  link: '/react-native/ReactNative脚手架工程 - 认识RN/index'
 next: false
 ---
 ## 搭建环境

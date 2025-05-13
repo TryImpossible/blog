@@ -35,6 +35,7 @@ export default defineConfig({
         // collapsed: true,
         items: [
           { text: 'ReactNative脚手架工程 - 初始化工程', link: '/react-native/ReactNative脚手架工程 - 初始化工程/index' },
+          { text: 'ReactNative脚手架工程 - 认识RN', link: '/react-native/ReactNative脚手架工程 - 认识RN/index' },
           { text: '关于ReactNative如何配置ESLint、Prettier、Pre-commit Hook', link: '/react-native/关于ReactNative如何配置ESLint、Prettier、Pre-commit Hook/index' },
           { text: 'ReactNative开发常用命令', link: '/react-native/ReactNative开发常用命令/index' }
         ]
