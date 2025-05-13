@@ -65,6 +65,7 @@ export default defineConfig({
               { text: '动态显示、隐藏状态栏和导航栏(广播方式)', link: '/android/Android-x86-6.0定制之路 - 动态显示、隐藏状态栏和导航栏(广播方式)/index.md' },
               { text: '永不休眠功能', link: '/android/Android-x86-6.0定制之路 - 永不休眠功能/index.md' },
               { text: '辛酸路开始', link: '/android/Android-x86-6.0定制之路 - 辛酸路开始/index.md' },
+              { text: '如何管理源码', link: '/android/Android-x86-6.0定制之路 - 如何管理源码/index.md' },
             ], 
             collapsed: false,
           }
