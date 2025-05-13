@@ -2,7 +2,9 @@
 prev: 
   text: 'ReactNative脚手架工程 - 代码规范'
   link: '/react-native/ReactNative脚手架工程 - 代码规范/index'
-next: false
+next: 
+  text: 'ReactNative脚手架工程 - Jest单元测试'
+  link: '/react-native/ReactNative脚手架工程 - Jest单元测试/index'
 ---
 ## 前言
 
@@ -141,7 +143,7 @@ next: false
 
 ## 测试
 
-关于 Typescript 的测试是基于 Jest，这里只是简单提下，具体讲解查看[Jest 单元测试](https://blog.csdn.net/Ctrl_S/article/details/87994930)
+关于 Typescript 的测试是基于 Jest，这里只是简单提下，具体讲解查看[Jest 单元测试](https://tryimpossible.github.io/blog/react-native/ReactNative%E8%84%9A%E6%89%8B%E6%9E%B6%E5%B7%A5%E7%A8%8B%20-%20Jest%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/)
 
 - `yarn add --dev ts-jest @types/jest @types/react-test-renderer`，安装依赖库
 - 在`jest.config.js`文件，插入以下代码

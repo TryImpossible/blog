@@ -34,6 +34,7 @@ export default defineConfig({
         text: 'ReactNative',
         // collapsed: true,
         items: [
+          { text: 'ReactNative脚手架工程 - Jest单元测试', link: '/react-native/ReactNative脚手架工程 - Jest单元测试/index' },
           { text: 'ReactNative脚手架工程 - 集成Typescript', link: '/react-native/ReactNative脚手架工程 - 集成Typescript/index' },
           { text: 'ReactNative脚手架工程 - 代码规范', link: '/react-native/ReactNative脚手架工程 - 代码规范/index' },
           { text: 'ReactNative脚手架工程 - 目录结构', link: '/react-native/ReactNative脚手架工程 - 目录结构/index' },
