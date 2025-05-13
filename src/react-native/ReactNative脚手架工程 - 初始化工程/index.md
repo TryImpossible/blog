@@ -2,7 +2,9 @@
 prev: 
   text: 'ReactNative脚手架工程 - 认识RN'
   link: '/react-native/ReactNative脚手架工程 - 认识RN/index'
-next: false
+next: 
+  text: 'ReactNative脚手架工程 - 目录结构'
+  link: '/react-native/ReactNative脚手架工程 - 目录结构/index'
 ---
 ## 搭建环境
 
