@@ -2,7 +2,9 @@
 prev: 
   text: 'ReactNative脚手架工程 - 目录结构'
   link: '/react-native/ReactNative脚手架工程 - 目录结构/index'
-next: false
+next: 
+  text: 'ReactNative脚手架工程 - 集成Typescript'
+  link: '/react-native/ReactNative脚手架工程 - 集成Typescript/index'
 ---
 ## 前言
 
