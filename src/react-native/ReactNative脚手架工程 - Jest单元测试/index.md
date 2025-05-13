@@ -2,7 +2,9 @@
 prev: 
   text: 'ReactNative脚手架工程 - 集成Typescript'
   link: '/react-native/ReactNative脚手架工程 - 集成Typescript/index'
-next: false
+next: 
+  text: 'ReactNative脚手架工程 - Detox自动化测试'
+  link: '/react-native//ReactNative脚手架工程 - Detox自动化测试/index'
 ---
 ## 前言
 
