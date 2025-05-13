@@ -2,7 +2,9 @@
 prev: 
   text: 'ReactNative脚手架工程 - 初始化工程'
   link: '/react-native/ReactNative脚手架工程 - 初始化工程/index'
-next: false
+next: 
+  text: 'ReactNative脚手架工程 - 代码规范'
+  link: '/react-native/ReactNative脚手架工程 - 代码规范/index'
 ---
 ## 前言
 
