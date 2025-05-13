@@ -2,7 +2,9 @@
 prev: 
   text: 'ReactNative开发常用命令'
   link: '/react-native/ReactNative开发常用命令/index'
-next: false
+next: 
+  text: 'ReactNative脚手架工程 - 初始化工程'
+  link: '/react-native/ReactNative脚手架工程 - 初始化工程/index'
 ---
 ## ESLint
 
