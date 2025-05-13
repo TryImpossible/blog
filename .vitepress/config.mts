@@ -54,6 +54,19 @@ export default defineConfig({
         collapsed: false,
       },
       {
+        text: 'Android',
+        items: [
+          { 
+            text: 'Android-x86-6.0定制之路',
+            items: [
+              { text: '辛酸路开始', link: '/android/Android-x86-6.0定制之路 - 辛酸路开始/index.md' },
+            ], 
+            collapsed: false,
+          }
+        ],
+        collapsed: false,
+      },
+      {
         text: 'Linux',
         items: [
           { text: 'Ubuntu服务器的基本操作', link: '/linux/Ubuntu服务器的基本操作/index.md' }
