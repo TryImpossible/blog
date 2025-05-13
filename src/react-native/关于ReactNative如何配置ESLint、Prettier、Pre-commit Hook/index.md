@@ -1,5 +1,7 @@
 ---
-prev: false
+prev: 
+  text: 'ReactNative开发常用命令'
+  link: '/react-native/ReactNative开发常用命令/index'
 next: false
 ---
 ## ESLint
