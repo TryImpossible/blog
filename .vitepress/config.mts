@@ -53,6 +53,13 @@ export default defineConfig({
         ],
         collapsed: false,
       },
+      {
+        text: 'Linux',
+        items: [
+          { text: 'Ubuntu服务器的基本操作', link: '/linux/Ubuntu服务器的基本操作/index.md' }
+        ],
+        collapsed: false,
+      },
       // {
       //   text: 'Examples',
       //   items: [
