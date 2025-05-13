@@ -59,6 +59,7 @@ export default defineConfig({
           { 
             text: 'Android-x86-6.0定制之路',
             items: [
+              { text: '绕过USB权限弹窗实现静默授权', link: '/android/Android-x86-6.0定制之路 - 绕过USB权限弹窗实现静默授权/index.md' },
               { text: '动态显示、隐藏状态栏和导航栏(广播方式)', link: '/android/Android-x86-6.0定制之路 - 动态显示、隐藏状态栏和导航栏(广播方式)/index.md' },
               { text: '永不休眠功能', link: '/android/Android-x86-6.0定制之路 - 永不休眠功能/index.md' },
               { text: '辛酸路开始', link: '/android/Android-x86-6.0定制之路 - 辛酸路开始/index.md' },
