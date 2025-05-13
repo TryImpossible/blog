@@ -66,6 +66,7 @@ export default defineConfig({
               { text: '永不休眠功能', link: '/android/Android-x86-6.0定制之路 - 永不休眠功能/index.md' },
               { text: '辛酸路开始', link: '/android/Android-x86-6.0定制之路 - 辛酸路开始/index.md' },
               { text: '如何管理源码', link: '/android/Android-x86-6.0定制之路 - 如何管理源码/index.md' },
+              { text: '在Ubuntu 16.04.5上编译', link: '/android/Android-x86-6.0定制之路 - 在Ubuntu 16.04.5上编译/index.md' },
             ], 
             collapsed: false,
           }
