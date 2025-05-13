@@ -30,6 +30,13 @@ export default defineConfig({
           { text: 'Flutter的首次尝试-小独App', link: '/flutter/Flutter的首次尝试-小独App/index' }
         ]
       },
+      {
+        text: 'ReactNative',
+        // collapsed: true,
+        items: [
+          { text: '关于ReactNative如何配置ESLint、Prettier、Pre-commit Hook', link: '/react-native/关于ReactNative如何配置ESLint、Prettier、Pre-commit Hook/index' }
+        ]
+      },
       // {
       //   text: 'Examples',
       //   items: [
