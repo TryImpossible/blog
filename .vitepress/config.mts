@@ -22,6 +22,13 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: 'AI',
+        items: [
+          { text: '大模型词汇', link: '/ai/大模型词汇/index.md' },
+        ],
+        collapsed: false,
+      },
+      {
         text: 'Flutter',
         items: [
           { text: 'Flutter Shorebird热更新教程', link: '/flutter/Flutter Shorebird热更新教程/index.md' },
