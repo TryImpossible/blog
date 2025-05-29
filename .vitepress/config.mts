@@ -81,6 +81,13 @@ export default defineConfig({
         ],
         collapsed: false,
       },
+      {
+        text: '其它',
+        items: [
+          { text: 'Markdown语法', link: '/other/Markdown语法/index.md' }
+        ],
+        collapsed: false,
+      },
       // {
       //   text: 'Examples',
       //   items: [
