@@ -82,9 +82,9 @@ export default defineConfig({
         collapsed: false,
       },
       {
-        text: 'Linux',
+        text: 'JavaScript',
         items: [
-          { text: 'Ubuntu服务器的基本操作', link: '/linux/Ubuntu服务器的基本操作/index.md' }
+          { text: 'JavaScript知识点', link: '/javascript/JavaScript知识点/index.md' }
         ],
         collapsed: false,
       },
@@ -108,6 +108,13 @@ export default defineConfig({
             ],
             collapsed: true,
           }
+        ],
+        collapsed: false,
+      },
+      {
+        text: 'Linux',
+        items: [
+          { text: 'Ubuntu服务器的基本操作', link: '/linux/Ubuntu服务器的基本操作/index.md' }
         ],
         collapsed: false,
       },
