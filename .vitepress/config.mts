@@ -89,6 +89,29 @@ export default defineConfig({
         collapsed: false,
       },
       {
+        text: '数据结构与算法',
+        items: [
+          {
+            text: '数据结构与算法课程',
+            items: [
+              { text: '第1章数据结构与算法简介', link: '/DSA/Course/第1章数据结构与算法简介/README.md' },
+              { text: '第2章时间空间复杂度计算', link: '/DSA/Course/第2章时间空间复杂度计算/README.md' },
+              { text: '第3章数据结构之"栈"', link: '/DSA/Course/第3章数据结构之"栈"/README.md' },
+              { text: '第4章数据结构之"队列"', link: '/DSA/Course/第4章数据结构之"队列"/README.md' },
+              { text: '第5章数据结构之"链表"', link: '/DSA/Course/第5章数据结构之"链表"/README.md' },
+              { text: '第6章数据结构之“集合”', link: '/DSA/Course/第6章数据结构之“集合”/README.md' },
+              { text: '第7章数据结构之“字典”', link: '/DSA/Course/第7章数据结构之“字典”/README.md' },
+              { text: '第8章数据结构之“树”', link: '/DSA/Course/第8章数据结构之“树”/README.md' },
+              { text: '第9章数据结构之“图”', link: '/DSA/Course/第9章数据结构之“图”/README.md' },
+              { text: '第10章数据结构之“堆”', link: '/DSA/Course/第10章数据结构之“堆”/README.md' },
+              { text: '第11章进阶算法之“搜索排序”', link: '/DSA/Course/第11章进阶算法之“搜索排序”/README.md' },
+            ],
+            collapsed: true,
+          }
+        ],
+        collapsed: false,
+      },
+      {
         text: '其它',
         items: [
           { text: 'Markdown语法', link: '/other/Markdown语法/index.md' }
