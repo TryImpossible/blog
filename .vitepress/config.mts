@@ -65,6 +65,7 @@ export default defineConfig({
         text: 'Android',
         items: [
           { text: 'Android知识点', link: '/android/Android知识点/index.md' },
+          { text: 'Android架构演进', link: '/android/Android架构演进/index.md' },
           { 
             text: 'Android-x86-6.0定制之路',
             items: [
