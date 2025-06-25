@@ -31,6 +31,7 @@ export default defineConfig({
       {
         text: 'Flutter',
         items: [
+          { text: 'Flutter知识点', link: '/flutter/Flutter知识点/index.md' },
           { text: 'Flutter Shorebird热更新教程', link: '/flutter/Flutter Shorebird热更新教程/index.md' },
           { text: '实现Dart版本对象存储(COS)插件', link: '/flutter/实现Dart版本对象存储(COS)插件/index.md'},
           { text: 'Flutter Web在《一起漫部》的性能优化探索与实践', link: '/flutter/Flutter Web在《一起漫部》的性能优化探索与实践/index.md' },
